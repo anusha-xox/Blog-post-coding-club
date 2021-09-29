@@ -1,2 +1,2 @@
-# Blog-post-coding-club-v1-with-flask
+# Blog-post-v1-with-flask
 
